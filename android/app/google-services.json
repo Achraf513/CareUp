@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172690319646",
+    "project_id": "care-up",
+    "storage_bucket": "care-up.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172690319646:android:4af480c1c9277c3129410f",
+        "android_client_info": {
+          "package_name": "com.example.CareUp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172690319646-he4itj4pp51gmbc5eigl8ovuud5rt1ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCmvx3Sc00TQTBv7cRYPixyaBvnHKk_jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172690319646-he4itj4pp51gmbc5eigl8ovuud5rt1ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
